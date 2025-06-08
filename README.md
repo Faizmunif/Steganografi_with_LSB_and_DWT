@@ -32,17 +32,20 @@ Aplikasi ini memungkinkan pengguna untuk **menyisipkan (encode)** dan **mengambi
 
 1. **Clone repository ini** (atau pindah ke folder proyek):
    ```bash
-   git clone https://github.com/username/nama-repo.git
-   cd nama-repo
+   git clone https://github.com/Faizmunif/Steganografi_with_LSB_and_DWT.git
+   cd Steganografi_with_LSB_and_DWT
 
-2. **Siapkan env** 
+2. **Siapkan env**
+   ```bash
    python -m venv steganografi-env
    steganografi-env\Scripts\activate  # Windows
 
-3. **Install requirements.txt**
+4. **Install requirements.txt**
+   ```bash
    pip install -r requirements.txt
 
-4. **Run streamlit**
+6. **Run streamlit**
+   ```bash
    streamlit run (nama file.py)
 
 
